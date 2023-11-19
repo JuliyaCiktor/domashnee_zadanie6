@@ -1,0 +1,77 @@
+.nav{
+    background-color:#EEEFF1;
+    width: 100%;
+    height: 100%;  
+  }
+  .nav > .menu{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 42px;
+  }
+  .nav > .menu > .menu-item{
+    padding: 17px 10px;
+    font-weight: 400;
+    size: 16;
+    letter-spacing: 10%;
+    color: #34547A;
+  }
+  p{
+    font-size: 16px;
+    padding: 0px 0px 0px 400px;
+    justify-content: center;
+  }
+  button{
+    background-color: #34547A;
+    letter-spacing: 0.7px;
+    padding: 9px 53px;
+    color:white;
+  }
+    h2{
+    display:flex;
+    font-size: 48px;
+    padding: 0px 0px 0px 400px;
+  }
+    h3{
+    display:flex;
+    font-size: 32px;
+    justify-content: center;
+  }
+  span{
+    display:flex;
+    font-size: 16px;
+    justify-content: center;
+  }
+  .nav2{
+    display: flex;
+    justify-content:space-between ;
+    background-color:#34547A;
+    width: 100%;
+    height: 100%;
+    padding: 0px 0px 0px 400px;
+  }
+  .logo{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 20px;
+  }
+  .container {
+    display: flex;
+    justify-content: center;
+  }
+.bloc3{
+    background-color: #EEEFF1;
+    padding: 405px 405px 100px 304px;
+}
+.bloc4{
+    background-color: #34547A;
+}
+.bloc4> .zagolovok{
+    color: #FFF;
+    font-size: 21px;
+}
+.bloc4> .zagolovok2{
+    color: #FFF;
+    font-size: 13px;
+}
